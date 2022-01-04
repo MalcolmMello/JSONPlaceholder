@@ -1,0 +1,9 @@
+fieldset {
+    display: block;
+}
+
+input, textarea, button {
+    display: block;
+    padding: 5px;
+    margin-top: 10px;
+}
